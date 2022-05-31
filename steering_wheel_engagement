@@ -1,0 +1,35 @@
+Date: May 30th, 2022
+
+Vehicle details:
+Hardware: Steering Wheel
+Software: Steering wheel engagement
+Vehicle: Tesla Model X
+Year: 2016
+Build: N/A
+
+How it currently works:
+Force must be applied to the steering wheel to maintain autopilot. 
+
+The problem:
+When in autopilot, steering wheel cannot override movements without disengaging.
+To disengage autopilot, must move the steering wheel in a way that jerks the vehicle.
+
+Proposed solution:
+The driver can make minor corrections with the steering wheel without disengaging autopilot
+
+Experiment:
+Let the steering wheel allow for some movement of the vehicle.
+
+Wnen is this needed:
+1. To avoid potholes
+2. To help the driver feel more comfortable if a nearby vehicle feels to close
+3. Driving near pedestrians, bicyclists, construction sites, or emergency services
+4. Navigating in places where there are not lines in the road (narrow, two-lane bi-directional streets)
+
+When would it not help:
+1. If autopilot needed to avoid a crash and the override put the vehicle in a worse position. Risk of this is low.
+2. In the case of an accident, the liability between the driver and the vehicle.
+
+What are the challenges for the experiment:
+1. Experimenting with the threshold in different scenarios to find optimal range.
+2. Programming for when the car takes back over during override (time, conditions, etc.)
