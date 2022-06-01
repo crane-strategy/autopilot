@@ -11,8 +11,9 @@ How it currently works:
 Force must be applied to the steering wheel to maintain autopilot. 
 
 The problem:
-When in autopilot, steering wheel cannot override movements without disengaging.
-To disengage autopilot, must move the steering wheel in a way that jerks the vehicle.
+When in autopilot, steering wheel movement or pressure cannot override movements without disengaging.
+This includes small movements. The steering wheel remains stiff.
+To disengage autopilot, must move the steering wheel in a way that jerks the vehicle. 
 
 Proposed solution:
 The driver can make minor corrections with the steering wheel without disengaging autopilot
