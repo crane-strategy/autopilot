@@ -5,7 +5,7 @@ Hardware: Steering Wheel
 Software: Steering wheel engagement
 Vehicle: Tesla Model X
 Year: 2016
-Build: N/A
+Version: 2021.24.28
 
 How it currently works:
 Force must be applied to the steering wheel to maintain autopilot. 
